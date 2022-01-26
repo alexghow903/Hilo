@@ -1,0 +1,15 @@
+C:\Users\alexa\Documents\c# code\hilo\obj\Debug\net6.0\hilo.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\c# code\hilo\obj\Debug\net6.0\hilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\c# code\hilo\obj\Debug\net6.0\hilo.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\c# code\hilo\obj\Debug\net6.0\hilo.AssemblyInfo.cs
+C:\Users\alexa\Documents\c# code\hilo\obj\Debug\net6.0\hilo.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\c# code\hilo\bin\Debug\net6.0\hilo.exe
+C:\Users\alexa\Documents\c# code\hilo\bin\Debug\net6.0\hilo.deps.json
+C:\Users\alexa\Documents\c# code\hilo\bin\Debug\net6.0\hilo.runtimeconfig.json
+C:\Users\alexa\Documents\c# code\hilo\bin\Debug\net6.0\hilo.dll
+C:\Users\alexa\Documents\c# code\hilo\bin\Debug\net6.0\ref\hilo.dll
+C:\Users\alexa\Documents\c# code\hilo\bin\Debug\net6.0\hilo.pdb
+C:\Users\alexa\Documents\c# code\hilo\obj\Debug\net6.0\hilo.dll
+C:\Users\alexa\Documents\c# code\hilo\obj\Debug\net6.0\ref\hilo.dll
+C:\Users\alexa\Documents\c# code\hilo\obj\Debug\net6.0\hilo.pdb
+C:\Users\alexa\Documents\c# code\hilo\obj\Debug\net6.0\hilo.genruntimeconfig.cache
